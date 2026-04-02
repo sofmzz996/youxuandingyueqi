@@ -1,1 +1,17 @@
-
+www.visa.com:2053
+mfa.gov.ua:443#🇭🇰 香港 | HK 01
+www.shopify.com:443#🇭🇰 香港 | HK 02
+store.ubi.com:443#🇭🇰 香港 | HK 03
+youxuan.cf.090227.xyz:443#🇹🇼 台湾 | TW 01
+staticdelivery.nexusmods.com:443#🇹🇼 台湾 | TW 02
+cf.tencentapp.cn:443#🇹🇼 台湾 | TW 03
+cloudflare-dl.byoip.top:443#🇰🇷 韩国 | KR 01
+cf.877774.xyz:443#🇰🇷 韩国 | KR 02
+saas.sin.fan:443#🇰🇷 韩国 | KR 03
+bestcf.030101.xyz:443#🇺🇸 美国 | US 01
+cf.cloudflare.182682.xyz:443#🇺🇸 美国 | US 02
+www.visa.cn:443#🇺🇸 美国 | US 03
+cf.130519.xyz:443#🇯🇵 日本 | JP 01
+cf.008500.xyz:443#🇯🇵 日本 | JP 02
+sub.danfeng.eu.org:443#🇸🇬 新加坡 | SG 01
+cdns.doon.eu.org:443#🇸🇬 新加坡 | SG 02
